@@ -1,0 +1,37 @@
+[
+   {
+      "name": "#3",
+      "tweet_volume": 0,
+      "weight": -3.3750143363021556
+   },
+   {
+      "name": "#NFT",
+      "tweet_volume": 89157,
+      "weight": -3.9748048579310624
+   },
+   {
+      "name": "#nft",
+      "tweet_volume": 89156,
+      "weight": -4.1743304823737475
+   },
+   {
+      "name": "#metamask",
+      "tweet_volume": 813,
+      "weight": -4.1743304823737475
+   },
+   {
+      "name": "#1",
+      "tweet_volume": 0,
+      "weight": -4.31523725758677
+   },
+   {
+      "name": "#Bitcoin\\u202f\\u202f\\u202foh",
+      "tweet_volume": 0,
+      "weight": -4.390247411415874
+   },
+   {
+      "name": "#Bitcoin\\u202f\\u202f\\u202f\\u00a0\\u00a0\\u00a0",
+      "tweet_volume": 0,
+      "weight": -5.05375602775032
+   }
+]

@@ -1,0 +1,57 @@
+[
+   {
+      "name": "#DelhiAirEmergency",
+      "tweet_volume": 0,
+      "weight": -11.257052822674746
+   },
+   {
+      "name": "#AmrapaliFlatBuyers",
+      "tweet_volume": 0,
+      "weight": -11.778632723150599
+   },
+   {
+      "name": "#NationalChickenWingDay",
+      "tweet_volume": 0,
+      "weight": -12.085602539405642
+   },
+   {
+      "name": "#GoVegan",
+      "tweet_volume": 478,
+      "weight": -12.132583933359554
+   },
+   {
+      "name": "#Vegan",
+      "tweet_volume": 514,
+      "weight": -12.132583933359554
+   },
+   {
+      "name": "#Animals",
+      "tweet_volume": 565,
+      "weight": -12.132583933359554
+   },
+   {
+      "name": "#BoycottKapilSharma",
+      "tweet_volume": 0,
+      "weight": -12.301774332884456
+   },
+   {
+      "name": "#Pulwama.",
+      "tweet_volume": 49,
+      "weight": -12.305472616598472
+   },
+   {
+      "name": "#ReleaseStressFund4HB",
+      "tweet_volume": 0,
+      "weight": -12.469016317935322
+   },
+   {
+      "name": "#BridgeFundingNBCC",
+      "tweet_volume": 0,
+      "weight": -12.474551148062124
+   },
+   {
+      "name": "#AmrapaliCheatedBuyers",
+      "tweet_volume": 0,
+      "weight": -13.111147126579777
+   }
+]

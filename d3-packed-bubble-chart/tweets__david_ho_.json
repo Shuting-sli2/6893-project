@@ -1,0 +1,402 @@
+[
+   {
+      "name": "#ChatGPT.",
+      "tweet_volume": 3454,
+      "weight": -1.065483654314187
+   },
+   {
+      "name": "#GPT3",
+      "tweet_volume": 91,
+      "weight": -1.981777705559755
+   },
+   {
+      "name": "#ChatGPT's",
+      "tweet_volume": 0,
+      "weight": -2.0952836055499833
+   },
+   {
+      "name": "#GPT",
+      "tweet_volume": 27,
+      "weight": -2.1042093126456853
+   },
+   {
+      "name": "#GPTchat",
+      "tweet_volume": 104,
+      "weight": -2.115811124033991
+   },
+   {
+      "name": "#OAE",
+      "tweet_volume": 0,
+      "weight": -2.409012233637295
+   },
+   {
+      "name": "#GOESWest",
+      "tweet_volume": 3,
+      "weight": -3.4889805835148753
+   },
+   {
+      "name": "#MaunaLoa",
+      "tweet_volume": 224,
+      "weight": -3.4889805835148753
+   },
+   {
+      "name": "#COP27",
+      "tweet_volume": 427,
+      "weight": -3.5962445043605245
+   },
+   {
+      "name": "#vegan",
+      "tweet_volume": 503,
+      "weight": -3.7998872396010404
+   },
+   {
+      "name": "#Artemis",
+      "tweet_volume": 1399,
+      "weight": -4.553850882836839
+   },
+   {
+      "name": "#GoogleDoodle.",
+      "tweet_volume": 31,
+      "weight": -4.677459316270687
+   },
+   {
+      "name": "#cellulosic",
+      "tweet_volume": 0,
+      "weight": -5.038772077906998
+   },
+   {
+      "name": "#biofuels",
+      "tweet_volume": 2,
+      "weight": -5.038772077906998
+   },
+   {
+      "name": "#LossAndDamage",
+      "tweet_volume": 19,
+      "weight": -5.708123101282378
+   },
+   {
+      "name": "#SummaryforAll",
+      "tweet_volume": 0,
+      "weight": -5.924163593554367
+   },
+   {
+      "name": "#climatechange",
+      "tweet_volume": 742,
+      "weight": -5.924163593554367
+   },
+   {
+      "name": "#ClimateTwitter",
+      "tweet_volume": 0,
+      "weight": -6.106343158915143
+   },
+   {
+      "name": "#EmissionsGap",
+      "tweet_volume": 0,
+      "weight": -6.220531051397761
+   },
+   {
+      "name": "#OceanCDR",
+      "tweet_volume": 0,
+      "weight": -6.376544141073602
+   },
+   {
+      "name": "#1",
+      "tweet_volume": 0,
+      "weight": -6.639294229850027
+   },
+   {
+      "name": "#EnergyTwitter",
+      "tweet_volume": 15,
+      "weight": -6.802002458456366
+   },
+   {
+      "name": "#SantanderCycles",
+      "tweet_volume": 0,
+      "weight": -6.921537839446107
+   },
+   {
+      "name": "#CDR",
+      "tweet_volume": 10,
+      "weight": -6.993130519674996
+   },
+   {
+      "name": "#Protectedbikelanes",
+      "tweet_volume": 0,
+      "weight": -6.995978140916135
+   },
+   {
+      "name": "#protectedintersections",
+      "tweet_volume": 0,
+      "weight": -6.995978140916135
+   },
+   {
+      "name": "#AnyGivenTuesday.",
+      "tweet_volume": 0,
+      "weight": -7.022647078797115
+   },
+   {
+      "name": "#3",
+      "tweet_volume": 0,
+      "weight": -7.068310171241835
+   },
+   {
+      "name": "#OceanJustice.",
+      "tweet_volume": 0,
+      "weight": -7.080363175315896
+   },
+   {
+      "name": "#AcademicChatter",
+      "tweet_volume": 128,
+      "weight": -7.110350162376426
+   },
+   {
+      "name": "#SOLAS_OSC2022",
+      "tweet_volume": 0,
+      "weight": -7.266918482897757
+   },
+   {
+      "name": "#survey",
+      "tweet_volume": 71,
+      "weight": -7.2678218689257115
+   },
+   {
+      "name": "#housing",
+      "tweet_volume": 122,
+      "weight": -7.2678218689257115
+   },
+   {
+      "name": "#WorldCarFreeDay.",
+      "tweet_volume": 0,
+      "weight": -7.345041855317319
+   },
+   {
+      "name": "#WorldOzoneDay",
+      "tweet_volume": 0,
+      "weight": -7.474334240907109
+   },
+   {
+      "name": "#WorldOzoneDay,",
+      "tweet_volume": 0,
+      "weight": -7.474799536210018
+   },
+   {
+      "name": "#EGU22",
+      "tweet_volume": 0,
+      "weight": -7.478649555587427
+   },
+   {
+      "name": "#climate",
+      "tweet_volume": 1099,
+      "weight": -7.616121367786257
+   },
+   {
+      "name": "#TDF2022",
+      "tweet_volume": 1,
+      "weight": -7.639582091529703
+   },
+   {
+      "name": "#GlobalWarming",
+      "tweet_volume": 549,
+      "weight": -7.673202710984978
+   },
+   {
+      "name": "#wildfires",
+      "tweet_volume": 8,
+      "weight": -7.785518970058467
+   },
+   {
+      "name": "#ClimateChange",
+      "tweet_volume": 743,
+      "weight": -7.81706490570612
+   },
+   {
+      "name": "#ShellRide",
+      "tweet_volume": 0,
+      "weight": -7.868911409462173
+   },
+   {
+      "name": "#IPCC",
+      "tweet_volume": 18,
+      "weight": -8.19668855902711
+   },
+   {
+      "name": "#Ocean",
+      "tweet_volume": 192,
+      "weight": -8.212114244301958
+   },
+   {
+      "name": "#ChallengerDeep?",
+      "tweet_volume": 0,
+      "weight": -8.303524597785009
+   },
+   {
+      "name": "#ParisRoubaix.",
+      "tweet_volume": 0,
+      "weight": -8.57685778064284
+   },
+   {
+      "name": "#EGU22.",
+      "tweet_volume": 0,
+      "weight": -8.993020638172718
+   },
+   {
+      "name": "#GTWS",
+      "tweet_volume": 1,
+      "weight": -9.019982554618649
+   },
+   {
+      "name": "#FossilFuels",
+      "tweet_volume": 54,
+      "weight": -9.060475613360081
+   },
+   {
+      "name": "#Paris",
+      "tweet_volume": 423,
+      "weight": -9.069916706863848
+   },
+   {
+      "name": "#BikeMonth.",
+      "tweet_volume": 1,
+      "weight": -9.092633136937849
+   },
+   {
+      "name": "#LiegeBastogneLiege",
+      "tweet_volume": 0,
+      "weight": -9.218004332404247
+   },
+   {
+      "name": "#ChallengerDeep",
+      "tweet_volume": 0,
+      "weight": -9.225122429710751
+   },
+   {
+      "name": "#EarthDay",
+      "tweet_volume": 10,
+      "weight": -9.235991667927403
+   },
+   {
+      "name": "#EarthDay!",
+      "tweet_volume": 10,
+      "weight": -9.248247196627839
+   },
+   {
+      "name": "#ThisIs50",
+      "tweet_volume": 1,
+      "weight": -9.275841006882418
+   },
+   {
+      "name": "#stormwater",
+      "tweet_volume": 1,
+      "weight": -9.298618747511819
+   },
+   {
+      "name": "#Honolulu.",
+      "tweet_volume": 29,
+      "weight": -9.298618747511819
+   },
+   {
+      "name": "#presidentielles2022",
+      "tweet_volume": 0,
+      "weight": -9.317189465154211
+   },
+   {
+      "name": "#NitrogenTuesday,",
+      "tweet_volume": 0,
+      "weight": -9.397455576673476
+   },
+   {
+      "name": "#DriveMyCar,",
+      "tweet_volume": 1,
+      "weight": -9.408809371506706
+   },
+   {
+      "name": "#MeetingCrasher",
+      "tweet_volume": 0,
+      "weight": -9.436706015863269
+   },
+   {
+      "name": "#MilanSanRemo",
+      "tweet_volume": 0,
+      "weight": -9.462464187813838
+   },
+   {
+      "name": "#DontLookUp,",
+      "tweet_volume": 11,
+      "weight": -9.476190878280775
+   },
+   {
+      "name": "#SaharanDust.",
+      "tweet_volume": 0,
+      "weight": -9.484007518255149
+   },
+   {
+      "name": "#PiDay",
+      "tweet_volume": 4,
+      "weight": -9.496747916018203
+   },
+   {
+      "name": "#Paris,",
+      "tweet_volume": 423,
+      "weight": -9.513846454086552
+   },
+   {
+      "name": "#LookUp",
+      "tweet_volume": 16,
+      "weight": -9.513846454086552
+   },
+   {
+      "name": "#Climate",
+      "tweet_volume": 1099,
+      "weight": -9.520253065577203
+   },
+   {
+      "name": "#SROCC",
+      "tweet_volume": 0,
+      "weight": -9.528886669603283
+   },
+   {
+      "name": "#ExpeditionVolcano-fan,",
+      "tweet_volume": 0,
+      "weight": -9.534237221878728
+   },
+   {
+      "name": "#Ukriane",
+      "tweet_volume": 0,
+      "weight": -9.551247550961799
+   },
+   {
+      "name": "#scicomm",
+      "tweet_volume": 97,
+      "weight": -9.600668653689183
+   },
+   {
+      "name": "#IPCCReport",
+      "tweet_volume": 0,
+      "weight": -9.601276374839307
+   },
+   {
+      "name": "#ClimateReport",
+      "tweet_volume": 0,
+      "weight": -9.601630085065011
+   },
+   {
+      "name": "#WGII",
+      "tweet_volume": 0,
+      "weight": -9.602150113505445
+   },
+   {
+      "name": "#AR6",
+      "tweet_volume": 2,
+      "weight": -9.602150113505445
+   },
+   {
+      "name": "#bluecarbon",
+      "tweet_volume": 12,
+      "weight": -9.605188058671636
+   },
+   {
+      "name": "#DavidInParis",
+      "tweet_volume": 0,
+      "weight": -9.630116678299418
+   }
+]

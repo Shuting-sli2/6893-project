@@ -1,0 +1,287 @@
+[
+   {
+      "name": "#CES2023",
+      "tweet_volume": 347,
+      "weight": 1.680304777778834
+   },
+   {
+      "name": "#Qatar2022",
+      "tweet_volume": 24769,
+      "weight": -4.4114043126605385
+   },
+   {
+      "name": "#QatarWorldCup2022",
+      "tweet_volume": 2164,
+      "weight": -4.473871266064684
+   },
+   {
+      "name": "#UAE",
+      "tweet_volume": 251,
+      "weight": -4.625831810560934
+   },
+   {
+      "name": "#gigadgets",
+      "tweet_volume": 14,
+      "weight": -4.727445345041132
+   },
+   {
+      "name": "#EverydayHero",
+      "tweet_volume": 2,
+      "weight": -5.237079410426015
+   },
+   {
+      "name": "#China.",
+      "tweet_volume": 4011,
+      "weight": -5.321513578837669
+   },
+   {
+      "name": "#Dubai",
+      "tweet_volume": 358,
+      "weight": -5.431761644460334
+   },
+   {
+      "name": "#29EkimCumhuriyetBayram\\u0131",
+      "tweet_volume": 0,
+      "weight": -5.4872817582412585
+   },
+   {
+      "name": "#RPA",
+      "tweet_volume": 44,
+      "weight": -5.492437460934041
+   },
+   {
+      "name": "#Parampar\\u00e7a",
+      "tweet_volume": 0,
+      "weight": -5.600297189060023
+   },
+   {
+      "name": "#10Kasim",
+      "tweet_volume": 1,
+      "weight": -5.600297189060023
+   },
+   {
+      "name": "#10Kas\\u0131m",
+      "tweet_volume": 0,
+      "weight": -5.600297189060023
+   },
+   {
+      "name": "#d\\u00fcnyaizinde",
+      "tweet_volume": 0,
+      "weight": -5.600384770523683
+   },
+   {
+      "name": "#10Kasim1938",
+      "tweet_volume": 0,
+      "weight": -5.600384770523683
+   },
+   {
+      "name": "#Ataturk",
+      "tweet_volume": 5,
+      "weight": -5.600384770523683
+   },
+   {
+      "name": "#10Kas\\u0131m1938",
+      "tweet_volume": 0,
+      "weight": -5.600384770523683
+   },
+   {
+      "name": "#deprem",
+      "tweet_volume": 86,
+      "weight": -5.941700102201624
+   },
+   {
+      "name": "#CZ",
+      "tweet_volume": 219,
+      "weight": -6.014524558407072
+   },
+   {
+      "name": "#Web3",
+      "tweet_volume": 15732,
+      "weight": -6.014524558407072
+   },
+   {
+      "name": "#Blockchain",
+      "tweet_volume": 10763,
+      "weight": -6.014524558407072
+   },
+   {
+      "name": "#TwitterBlue",
+      "tweet_volume": 44,
+      "weight": -6.0843900359016745
+   },
+   {
+      "name": "#TOGG",
+      "tweet_volume": 13,
+      "weight": -6.162292303963055
+   },
+   {
+      "name": "#29EkimCumhuriyetBayram\\u0131m\\u0131zKutluOlsun",
+      "tweet_volume": 0,
+      "weight": -6.17292547423274
+   },
+   {
+      "name": "#29EkimCumhuriyetBayram\\u0131m\\u0131z",
+      "tweet_volume": 0,
+      "weight": -6.180537892898813
+   },
+   {
+      "name": "#Atam\\u0130zindeyiz",
+      "tweet_volume": 0,
+      "weight": -6.180537892898813
+   },
+   {
+      "name": "#HalitK\\u0131van\\u00e7\\u2019\\u0131",
+      "tweet_volume": 0,
+      "weight": -6.326237866569577
+   },
+   {
+      "name": "#dubai",
+      "tweet_volume": 358,
+      "weight": -6.430437177292308
+   },
+   {
+      "name": "#metaverse",
+      "tweet_volume": 8991,
+      "weight": -6.466018572847405
+   },
+   {
+      "name": "#TRTHaber",
+      "tweet_volume": 0,
+      "weight": -6.466018572847405
+   },
+   {
+      "name": "#automation",
+      "tweet_volume": 321,
+      "weight": -6.486340942499625
+   },
+   {
+      "name": "#UiPathFORWARD",
+      "tweet_volume": 0,
+      "weight": -6.500467934688391
+   },
+   {
+      "name": "#PlanetEarth2",
+      "tweet_volume": 1,
+      "weight": -6.563247810510053
+   },
+   {
+      "name": "#OCEANS2022",
+      "tweet_volume": 0,
+      "weight": -6.5933925772288156
+   },
+   {
+      "name": "#KSA",
+      "tweet_volume": 87,
+      "weight": -6.5933925772288156
+   },
+   {
+      "name": "#Egypt",
+      "tweet_volume": 845,
+      "weight": -6.5933925772288156
+   },
+   {
+      "name": "#fun",
+      "tweet_volume": 1004,
+      "weight": -6.5933925772288156
+   },
+   {
+      "name": "#SuperApps",
+      "tweet_volume": 0,
+      "weight": -6.610785772878476
+   },
+   {
+      "name": "#GartnerSym",
+      "tweet_volume": 5,
+      "weight": -6.610785772878476
+   },
+   {
+      "name": "#kobidestek",
+      "tweet_volume": 0,
+      "weight": -6.742733606022121
+   },
+   {
+      "name": "#Robot",
+      "tweet_volume": 172,
+      "weight": -6.914477442222135
+   },
+   {
+      "name": "#TeslaAIDay",
+      "tweet_volume": 0,
+      "weight": -7.114955651139668
+   },
+   {
+      "name": "#TeslaBot",
+      "tweet_volume": 0,
+      "weight": -7.153185057318384
+   },
+   {
+      "name": "#Tesla",
+      "tweet_volume": 508,
+      "weight": -7.153185057318384
+   },
+   {
+      "name": "#CaptionThis",
+      "tweet_volume": 41,
+      "weight": -7.185203691324225
+   },
+   {
+      "name": "#DARTMission",
+      "tweet_volume": 9,
+      "weight": -7.244526019445372
+   },
+   {
+      "name": "#1",
+      "tweet_volume": 0,
+      "weight": -7.295510006897527
+   },
+   {
+      "name": "#NaturalbeautyoftheEarth",
+      "tweet_volume": 0,
+      "weight": -7.505102290101327
+   },
+   {
+      "name": "#stomach",
+      "tweet_volume": 17,
+      "weight": -7.539569138931148
+   },
+   {
+      "name": "#robot",
+      "tweet_volume": 172,
+      "weight": -7.602234321126564
+   },
+   {
+      "name": "#AI",
+      "tweet_volume": 5721,
+      "weight": -7.787866669003606
+   },
+   {
+      "name": "#UiPathForward",
+      "tweet_volume": 0,
+      "weight": -7.908277366714567
+   },
+   {
+      "name": "#GoogleMaps",
+      "tweet_volume": 22,
+      "weight": -8.018620830726869
+   },
+   {
+      "name": "#Google",
+      "tweet_volume": 894,
+      "weight": -8.018620830726869
+   },
+   {
+      "name": "#cryptocurrency",
+      "tweet_volume": 8876,
+      "weight": -8.065142014433182
+   },
+   {
+      "name": "#OliviaNewtonJohn",
+      "tweet_volume": 8,
+      "weight": -8.129087104192624
+   },
+   {
+      "name": "#cesme",
+      "tweet_volume": 11641,
+      "weight": -8.459152328742253
+   }
+]

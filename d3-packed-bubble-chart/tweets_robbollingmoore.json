@@ -1,0 +1,897 @@
+[
+   {
+      "name": "#TheQuintessentialQuintuplets.",
+      "tweet_volume": 17,
+      "weight": 3.856368547261798
+   },
+   {
+      "name": "#Gunvolt",
+      "tweet_volume": 26,
+      "weight": 3.6024815567228545
+   },
+   {
+      "name": "#181comicsandCollectibles",
+      "tweet_volume": 0,
+      "weight": 2.883963792020341
+   },
+   {
+      "name": "#BlackClover",
+      "tweet_volume": 236,
+      "weight": 2.883963792020341
+   },
+   {
+      "name": "#Asta",
+      "tweet_volume": 42,
+      "weight": 2.883963792020341
+   },
+   {
+      "name": "#BiscuitHammer",
+      "tweet_volume": 5,
+      "weight": 2.833858467347341
+   },
+   {
+      "name": "#Toonami",
+      "tweet_volume": 53,
+      "weight": 2.2299922580871447
+   },
+   {
+      "name": "#Yashahime",
+      "tweet_volume": 26,
+      "weight": 1.456123321778013
+   },
+   {
+      "name": "#Shippuden",
+      "tweet_volume": 2,
+      "weight": 1.0295097589031827
+   },
+   {
+      "name": "#MyHeroAcademia",
+      "tweet_volume": 752,
+      "weight": 0.4645845504623619
+   },
+   {
+      "name": "#DragonAge",
+      "tweet_volume": 401,
+      "weight": 0.14317669561354662
+   },
+   {
+      "name": "#Boruto",
+      "tweet_volume": 314,
+      "weight": 0.09217664208328594
+   },
+   {
+      "name": "#ToYourEternity",
+      "tweet_volume": 23,
+      "weight": -0.008243867904444016
+   },
+   {
+      "name": "#Toonami!",
+      "tweet_volume": 53,
+      "weight": -0.010042624161081606
+   },
+   {
+      "name": "#MadeInAbyss",
+      "tweet_volume": 129,
+      "weight": -0.021649268650064984
+   },
+   {
+      "name": "#BeastTamer",
+      "tweet_volume": 7,
+      "weight": -0.048510895327950804
+   },
+   {
+      "name": "#AnimeArt",
+      "tweet_volume": 537,
+      "weight": -0.2527398466892651
+   },
+   {
+      "name": "#DragonAgeDay,",
+      "tweet_volume": 500,
+      "weight": -0.4065146348953929
+   },
+   {
+      "name": "#Toonami.",
+      "tweet_volume": 53,
+      "weight": -0.7482650669686274
+   },
+   {
+      "name": "#Yashahime,",
+      "tweet_volume": 26,
+      "weight": -0.7841848029499529
+   },
+   {
+      "name": "#Toonami,",
+      "tweet_volume": 53,
+      "weight": -0.9635666524018783
+   },
+   {
+      "name": "#Toonami?",
+      "tweet_volume": 53,
+      "weight": -1.1103049982686952
+   },
+   {
+      "name": "#SPYxFamily",
+      "tweet_volume": 934,
+      "weight": -1.1641241825120288
+   },
+   {
+      "name": "#bluelock.",
+      "tweet_volume": 213,
+      "weight": -1.1942134635810104
+   },
+   {
+      "name": "#BeastTamer,",
+      "tweet_volume": 7,
+      "weight": -1.1983021101146767
+   },
+   {
+      "name": "#MadeInAbyss,",
+      "tweet_volume": 129,
+      "weight": -1.2593297662132186
+   },
+   {
+      "name": "#BlueLock",
+      "tweet_volume": 213,
+      "weight": -1.286958561619034
+   },
+   {
+      "name": "#sailorjupiter",
+      "tweet_volume": 271,
+      "weight": -1.3111504317006255
+   },
+   {
+      "name": "#danganronpa",
+      "tweet_volume": 179,
+      "weight": -1.3111504317006255
+   },
+   {
+      "name": "#fireemblem",
+      "tweet_volume": 1044,
+      "weight": -1.3111504317006255
+   },
+   {
+      "name": "#JoJosBizarreAdventure",
+      "tweet_volume": 782,
+      "weight": -1.3127874082353943
+   },
+   {
+      "name": "#jojo_anime",
+      "tweet_volume": 409,
+      "weight": -1.3127874082353943
+   },
+   {
+      "name": "#ShinobinoIttoki!",
+      "tweet_volume": 8,
+      "weight": -1.3296111688443208
+   },
+   {
+      "name": "#TOONAMI",
+      "tweet_volume": 53,
+      "weight": -1.355701737349943
+   },
+   {
+      "name": "#lacc",
+      "tweet_volume": 13,
+      "weight": -1.3973660890849533
+   },
+   {
+      "name": "#ANIMEImpulseLA2023",
+      "tweet_volume": 447,
+      "weight": -1.4283108792022448
+   },
+   {
+      "name": "#eviefrye",
+      "tweet_volume": 2,
+      "weight": -1.5075519775150745
+   },
+   {
+      "name": "#StoneOcean",
+      "tweet_volume": 1492,
+      "weight": -1.7590984356746493
+   },
+   {
+      "name": "#PrepSchoolforSerialKillers",
+      "tweet_volume": 2,
+      "weight": -1.7631406174350392
+   },
+   {
+      "name": "#MyHeroAcademia!",
+      "tweet_volume": 752,
+      "weight": -1.8470537737477162
+   },
+   {
+      "name": "#LopezVsLopez",
+      "tweet_volume": 3,
+      "weight": -1.8918656168951213
+   },
+   {
+      "name": "#DragonAgeDay",
+      "tweet_volume": 500,
+      "weight": -1.8984480189237447
+   },
+   {
+      "name": "#MarvelMidnightSuns!",
+      "tweet_volume": 23,
+      "weight": -1.9034644792656894
+   },
+   {
+      "name": "#LACC",
+      "tweet_volume": 13,
+      "weight": -1.911920295930558
+   },
+   {
+      "name": "#NeedforSpeedUnbound!",
+      "tweet_volume": 304,
+      "weight": -1.912303653695177
+   },
+   {
+      "name": "#jacobfrye",
+      "tweet_volume": 1,
+      "weight": -1.9126869250303593
+   },
+   {
+      "name": "#MarvelsMidnightSuns",
+      "tweet_volume": 74,
+      "weight": -1.9138362208487811
+   },
+   {
+      "name": "#TXSmash!",
+      "tweet_volume": 0,
+      "weight": -1.9153674076219656
+   },
+   {
+      "name": "#anime",
+      "tweet_volume": 5774,
+      "weight": -1.9153674076219656
+   },
+   {
+      "name": "#mha",
+      "tweet_volume": 916,
+      "weight": -1.9153674076219656
+   },
+   {
+      "name": "#dallas",
+      "tweet_volume": 425,
+      "weight": -1.9153674076219656
+   },
+   {
+      "name": "#chainsawman",
+      "tweet_volume": 17951,
+      "weight": -2.0078251332690766
+   },
+   {
+      "name": "#sakuracon",
+      "tweet_volume": 4,
+      "weight": -2.0084291694814316
+   },
+   {
+      "name": "#sakuracon2023",
+      "tweet_volume": 4,
+      "weight": -2.0084291694814316
+   },
+   {
+      "name": "#MarvelMidnightSuns",
+      "tweet_volume": 23,
+      "weight": -2.011686222100946
+   },
+   {
+      "name": "#Bofuri",
+      "tweet_volume": 0,
+      "weight": -2.3448536760664553
+   },
+   {
+      "name": "#JLReunion",
+      "tweet_volume": 113,
+      "weight": -2.4247960097838894
+   },
+   {
+      "name": "#ChainsawMan",
+      "tweet_volume": 17951,
+      "weight": -2.431353048755861
+   },
+   {
+      "name": "#CalloftheNight",
+      "tweet_volume": 18,
+      "weight": -2.4508500618515083
+   },
+   {
+      "name": "#Hatsuka",
+      "tweet_volume": 0,
+      "weight": -2.4508500618515083
+   },
+   {
+      "name": "#SAO",
+      "tweet_volume": 837,
+      "weight": -2.4691805776302993
+   },
+   {
+      "name": "#DBMultiverse",
+      "tweet_volume": 1,
+      "weight": -2.4724922669892835
+   },
+   {
+      "name": "#Bleach",
+      "tweet_volume": 5644,
+      "weight": -2.6971160099740543
+   },
+   {
+      "name": "#willow",
+      "tweet_volume": 278,
+      "weight": -2.7256236884995575
+   },
+   {
+      "name": "#MobPsycho100",
+      "tweet_volume": 862,
+      "weight": -2.7372245969680793
+   },
+   {
+      "name": "#streamily",
+      "tweet_volume": 2,
+      "weight": -2.7548291726551652
+   },
+   {
+      "name": "#casacon2022",
+      "tweet_volume": 0,
+      "weight": -2.759260206098696
+   },
+   {
+      "name": "#BravingTheElements",
+      "tweet_volume": 0,
+      "weight": -2.895811544517449
+   },
+   {
+      "name": "#WonHobbyG",
+      "tweet_volume": 7,
+      "weight": -3.2099124765783973
+   },
+   {
+      "name": "#dragonflights",
+      "tweet_volume": 0,
+      "weight": -3.2505890729317453
+   },
+   {
+      "name": "#FireEmblemHeroes",
+      "tweet_volume": 69,
+      "weight": -3.2547706882409235
+   },
+   {
+      "name": "#CrisisCore",
+      "tweet_volume": 86,
+      "weight": -3.456528670657784
+   },
+   {
+      "name": "#AkudamaDrive",
+      "tweet_volume": 1,
+      "weight": -3.5269148646273294
+   },
+   {
+      "name": "#WIP",
+      "tweet_volume": 1527,
+      "weight": -3.557043165607944
+   },
+   {
+      "name": "#DRAGONAGE",
+      "tweet_volume": 401,
+      "weight": -3.5672097913804697
+   },
+   {
+      "name": "#voiceover",
+      "tweet_volume": 132,
+      "weight": -3.649176301175205
+   },
+   {
+      "name": "#PokemonScarletViolet",
+      "tweet_volume": 11988,
+      "weight": -3.6589899161432626
+   },
+   {
+      "name": "#MoreThanAMarriedCoupleButNotLovers",
+      "tweet_volume": 16,
+      "weight": -3.7345518590242244
+   },
+   {
+      "name": "#funkos,",
+      "tweet_volume": 4,
+      "weight": -3.738950659109573
+   },
+   {
+      "name": "#CTCF",
+      "tweet_volume": 12,
+      "weight": -3.7432645527697592
+   },
+   {
+      "name": "#MyHeroAcademia,",
+      "tweet_volume": 752,
+      "weight": -3.7831321023707942
+   },
+   {
+      "name": "#YoungJustice",
+      "tweet_volume": 7,
+      "weight": -3.9364454709094914
+   },
+   {
+      "name": "#ShinobinoIttoki",
+      "tweet_volume": 8,
+      "weight": -3.975960209896139
+   },
+   {
+      "name": "#AnimeDallas",
+      "tweet_volume": 0,
+      "weight": -4.0303163632414485
+   },
+   {
+      "name": "#Ichigo",
+      "tweet_volume": 69,
+      "weight": -4.0791029294603245
+   },
+   {
+      "name": "#AmiAmiLive",
+      "tweet_volume": 2,
+      "weight": -4.0791029294603245
+   },
+   {
+      "name": "#tokyo",
+      "tweet_volume": 602,
+      "weight": -4.098811751179797
+   },
+   {
+      "name": "#xiao",
+      "tweet_volume": 1424,
+      "weight": -4.100293970866396
+   },
+   {
+      "name": "#Ladybug",
+      "tweet_volume": 29,
+      "weight": -4.10821250209182
+   },
+   {
+      "name": "#OnePiece",
+      "tweet_volume": 5111,
+      "weight": -4.111538695129934
+   },
+   {
+      "name": "#BLEACHTYBW!!!",
+      "tweet_volume": 2718,
+      "weight": -4.118818175947559
+   },
+   {
+      "name": "#DragonBallSuper",
+      "tweet_volume": 493,
+      "weight": -4.119550776691497
+   },
+   {
+      "name": "#Vegeta",
+      "tweet_volume": 63,
+      "weight": -4.119550776691497
+   },
+   {
+      "name": "#Naruto",
+      "tweet_volume": 1260,
+      "weight": -4.215651701376419
+   },
+   {
+      "name": "#Baby5",
+      "tweet_volume": 0,
+      "weight": -4.222372572514534
+   },
+   {
+      "name": "#OnePiece,",
+      "tweet_volume": 5111,
+      "weight": -4.222372572514534
+   },
+   {
+      "name": "#LegendOfZelda",
+      "tweet_volume": 137,
+      "weight": -4.25466529984906
+   },
+   {
+      "name": "#Villainous",
+      "tweet_volume": 65,
+      "weight": -4.2632446041567
+   },
+   {
+      "name": "#holmat2022!",
+      "tweet_volume": 4,
+      "weight": -4.358869402862021
+   },
+   {
+      "name": "#SAO10th",
+      "tweet_volume": 169,
+      "weight": -4.366396956573505
+   },
+   {
+      "name": "#drowningsorrowsinragingfire!",
+      "tweet_volume": 0,
+      "weight": -4.366577932780627
+   },
+   {
+      "name": "#CroodsFamilyTree",
+      "tweet_volume": 0,
+      "weight": -4.367211197827994
+   },
+   {
+      "name": "#Chainsawman",
+      "tweet_volume": 17969,
+      "weight": -4.46808489547669
+   },
+   {
+      "name": "#thekeeperoftheblueflame",
+      "tweet_volume": 0,
+      "weight": -4.512920625513473
+   },
+   {
+      "name": "#MartinCervantes",
+      "tweet_volume": 0,
+      "weight": -4.513169667191776
+   },
+   {
+      "name": "#SamiSharkawy",
+      "tweet_volume": 0,
+      "weight": -4.513252672977784
+   },
+   {
+      "name": "#PokemonViolet",
+      "tweet_volume": 1801,
+      "weight": -4.610518811467212
+   },
+   {
+      "name": "#ShinobiStriker!",
+      "tweet_volume": 4,
+      "weight": -4.622392222781034
+   },
+   {
+      "name": "#WCC2022",
+      "tweet_volume": 5,
+      "weight": -4.634028665038831
+   },
+   {
+      "name": "#ScoobyDoo",
+      "tweet_volume": 187,
+      "weight": -4.634028665038831
+   },
+   {
+      "name": "#TheLegendOfKorra",
+      "tweet_volume": 6,
+      "weight": -4.634028665038831
+   },
+   {
+      "name": "#TheSimpsons",
+      "tweet_volume": 107,
+      "weight": -4.634028665038831
+   },
+   {
+      "name": "#MastersOfTheUniverse",
+      "tweet_volume": 27,
+      "weight": -4.634028665038831
+   },
+   {
+      "name": "#\\u5e7d\\u904a\\u767d\\u66f8",
+      "tweet_volume": 0,
+      "weight": -4.7090419457776616
+   },
+   {
+      "name": "#SpyXFamily",
+      "tweet_volume": 936,
+      "weight": -4.7353205346669975
+   },
+   {
+      "name": "#FNAF",
+      "tweet_volume": 891,
+      "weight": -4.739685293793734
+   },
+   {
+      "name": "#DragonBallSuper,",
+      "tweet_volume": 493,
+      "weight": -4.817434629219017
+   },
+   {
+      "name": "#MurderDrones!",
+      "tweet_volume": 263,
+      "weight": -4.817781617565495
+   },
+   {
+      "name": "#Somebody",
+      "tweet_volume": 11,
+      "weight": -4.82221682451642
+   },
+   {
+      "name": "#Tonight",
+      "tweet_volume": 118,
+      "weight": -4.827951553277638
+   },
+   {
+      "name": "#VoiceActors",
+      "tweet_volume": 51,
+      "weight": -4.831672221078238
+   },
+   {
+      "name": "#voiceacting",
+      "tweet_volume": 76,
+      "weight": -4.83242913756683
+   },
+   {
+      "name": "#voiceoverartist",
+      "tweet_volume": 3,
+      "weight": -4.83242913756683
+   },
+   {
+      "name": "#voiceovertips",
+      "tweet_volume": 0,
+      "weight": -4.83242913756683
+   },
+   {
+      "name": "#SkillsHub",
+      "tweet_volume": 0,
+      "weight": -4.83242913756683
+   },
+   {
+      "name": "#SailorMoon,",
+      "tweet_volume": 1286,
+      "weight": -4.902775638030387
+   },
+   {
+      "name": "#SwordArtOnline",
+      "tweet_volume": 1205,
+      "weight": -4.905150216463262
+   },
+   {
+      "name": "#Genshinlmpact",
+      "tweet_volume": 7642,
+      "weight": -4.905347948362293
+   },
+   {
+      "name": "#AnimeNYC",
+      "tweet_volume": 12,
+      "weight": -4.919197713183115
+   },
+   {
+      "name": "#AnimeNYC,",
+      "tweet_volume": 12,
+      "weight": -4.919328452243396
+   },
+   {
+      "name": "#vtuber,",
+      "tweet_volume": 11532,
+      "weight": -4.937727392761597
+   },
+   {
+      "name": "#AnimeAustin",
+      "tweet_volume": 0,
+      "weight": -4.942441277232198
+   },
+   {
+      "name": "#FollowFriday!",
+      "tweet_volume": 26,
+      "weight": -4.943085998113712
+   },
+   {
+      "name": "#Kickstarter",
+      "tweet_volume": 189,
+      "weight": -4.943085998113712
+   },
+   {
+      "name": "#TwitterDown",
+      "tweet_volume": 572,
+      "weight": -4.984036488142107
+   },
+   {
+      "name": "#Twitter",
+      "tweet_volume": 5962,
+      "weight": -4.984539819011809
+   },
+   {
+      "name": "#GenshinImpact",
+      "tweet_volume": 32272,
+      "weight": -4.992197206889369
+   },
+   {
+      "name": "#overwatch2",
+      "tweet_volume": 6428,
+      "weight": -4.992197206889369
+   },
+   {
+      "name": "#HunterXHunter",
+      "tweet_volume": 182,
+      "weight": -4.992197206889369
+   },
+   {
+      "name": "#FEH",
+      "tweet_volume": 238,
+      "weight": -5.021932678625013
+   },
+   {
+      "name": "#FireEmblem",
+      "tweet_volume": 1044,
+      "weight": -5.021932678625013
+   },
+   {
+      "name": "#Tiki",
+      "tweet_volume": 5,
+      "weight": -5.021932678625013
+   },
+   {
+      "name": "#NARUTO",
+      "tweet_volume": 1260,
+      "weight": -5.022424915046709
+   },
+   {
+      "name": "#Tsunade",
+      "tweet_volume": 23,
+      "weight": -5.022424915046709
+   },
+   {
+      "name": "#NarutoShippuden",
+      "tweet_volume": 138,
+      "weight": -5.022424915046709
+   },
+   {
+      "name": "#hokage",
+      "tweet_volume": 1,
+      "weight": -5.022424915046709
+   },
+   {
+      "name": "#DCAU",
+      "tweet_volume": 20,
+      "weight": -5.0254981677457184
+   },
+   {
+      "name": "#JusticeLeague",
+      "tweet_volume": 87,
+      "weight": -5.0254981677457184
+   },
+   {
+      "name": "#RWBY",
+      "tweet_volume": 451,
+      "weight": -5.025805187666728
+   },
+   {
+      "name": "#monsterhigh",
+      "tweet_volume": 144,
+      "weight": -5.029607635227708
+   },
+   {
+      "name": "#monsterhighseason2",
+      "tweet_volume": 0,
+      "weight": -5.029607635227708
+   },
+   {
+      "name": "#GiveGreatVoice",
+      "tweet_volume": 0,
+      "weight": -5.030158897190059
+   },
+   {
+      "name": "#Orient",
+      "tweet_volume": 3,
+      "weight": -5.087424046926608
+   },
+   {
+      "name": "#TheGameAwards?",
+      "tweet_volume": 4913,
+      "weight": -5.090145656807317
+   },
+   {
+      "name": "#AttackOnTitan",
+      "tweet_volume": 403,
+      "weight": -5.0915638993812316
+   },
+   {
+      "name": "#SaintsRow",
+      "tweet_volume": 15,
+      "weight": -5.098166765221175
+   },
+   {
+      "name": "#Goku",
+      "tweet_volume": 113,
+      "weight": -5.115902391850906
+   },
+   {
+      "name": "#Fanart",
+      "tweet_volume": 9873,
+      "weight": -5.115902391850906
+   },
+   {
+      "name": "#Honoured",
+      "tweet_volume": 1,
+      "weight": -5.146029470368231
+   },
+   {
+      "name": "#excited",
+      "tweet_volume": 42,
+      "weight": -5.146029470368231
+   },
+   {
+      "name": "#grateful",
+      "tweet_volume": 252,
+      "weight": -5.146029470368231
+   },
+   {
+      "name": "#award",
+      "tweet_volume": 59,
+      "weight": -5.146029470368231
+   },
+   {
+      "name": "#nominee",
+      "tweet_volume": 378,
+      "weight": -5.146029470368231
+   },
+   {
+      "name": "#busy",
+      "tweet_volume": 6,
+      "weight": -5.146086675718618
+   },
+   {
+      "name": "#SOVAS",
+      "tweet_volume": 0,
+      "weight": -5.146086675718618
+   },
+   {
+      "name": "#awards",
+      "tweet_volume": 103,
+      "weight": -5.146086675718618
+   },
+   {
+      "name": "#nominations",
+      "tweet_volume": 3,
+      "weight": -5.146086675718618
+   },
+   {
+      "name": "#STEM",
+      "tweet_volume": 240,
+      "weight": -5.158511715104502
+   },
+   {
+      "name": "#Arai!",
+      "tweet_volume": 3,
+      "weight": -5.162028918614939
+   },
+   {
+      "name": "#NIKKE",
+      "tweet_volume": 1814,
+      "weight": -5.162482221730751
+   },
+   {
+      "name": "#Himeno",
+      "tweet_volume": 269,
+      "weight": -5.162708827969423
+   },
+   {
+      "name": "#unlockthecon",
+      "tweet_volume": 1,
+      "weight": -5.191245051798779
+   },
+   {
+      "name": "#Denji",
+      "tweet_volume": 88,
+      "weight": -5.193527417025278
+   },
+   {
+      "name": "#Power",
+      "tweet_volume": 377,
+      "weight": -5.193527417025278
+   },
+   {
+      "name": "#TheGameAwards!",
+      "tweet_volume": 4914,
+      "weight": -5.194250454447638
+   },
+   {
+      "name": "#EvilDeadTheGame",
+      "tweet_volume": 3,
+      "weight": -5.196140022787589
+   },
+   {
+      "name": "#TomFahn",
+      "tweet_volume": 0,
+      "weight": -5.197417070287833
+   },
+   {
+      "name": "#ALA18",
+      "tweet_volume": 3,
+      "weight": -5.197417070287833
+   },
+   {
+      "name": "#Arrowfell",
+      "tweet_volume": 0,
+      "weight": -5.197528072573214
+   }
+]

@@ -1,0 +1,252 @@
+[
+   {
+      "name": "#Dogecoin",
+      "tweet_volume": 2642,
+      "weight": 2.0470840951006357
+   },
+   {
+      "name": "#Dogecoin/Crypto",
+      "tweet_volume": 0,
+      "weight": 1.843485389611475
+   },
+   {
+      "name": "#paintingapicture",
+      "tweet_volume": 0,
+      "weight": 0.7952325832626185
+   },
+   {
+      "name": "#oliverwendell",
+      "tweet_volume": 0,
+      "weight": 0.7952325832626185
+   },
+   {
+      "name": "#Bitcoin",
+      "tweet_volume": 24724,
+      "weight": 0.1393028114908566
+   },
+   {
+      "name": "#ElonMusk",
+      "tweet_volume": 4740,
+      "weight": -0.29708427822211797
+   },
+   {
+      "name": "#Twitter",
+      "tweet_volume": 5830,
+      "weight": -0.8240729199846651
+   },
+   {
+      "name": "#IOnlybuyProdudtsThatAdvertiseonTwitterNow",
+      "tweet_volume": 0,
+      "weight": -0.8484536248308685
+   },
+   {
+      "name": "#Dogecoin,",
+      "tweet_volume": 2644,
+      "weight": -3.2910056333788757
+   },
+   {
+      "name": "#TeslaPhone",
+      "tweet_volume": 2,
+      "weight": -3.4962429655101794
+   },
+   {
+      "name": "#Dogecoin?",
+      "tweet_volume": 2643,
+      "weight": -3.70900720144837
+   },
+   {
+      "name": "#FTX",
+      "tweet_volume": 2914,
+      "weight": -3.9616619637360957
+   },
+   {
+      "name": "#SBF",
+      "tweet_volume": 310,
+      "weight": -3.9616619637360957
+   },
+   {
+      "name": "#dogecoin",
+      "tweet_volume": 2643,
+      "weight": -4.1205178382576975
+   },
+   {
+      "name": "#DOGECOIN",
+      "tweet_volume": 2643,
+      "weight": -4.411032946627418
+   },
+   {
+      "name": "#Dogecoin!",
+      "tweet_volume": 2644,
+      "weight": -4.520476798510334
+   },
+   {
+      "name": "#Etherum",
+      "tweet_volume": 113,
+      "weight": -5.129069286408188
+   },
+   {
+      "name": "#NFTs",
+      "tweet_volume": 36999,
+      "weight": -5.14397194292419
+   },
+   {
+      "name": "#DOGEARMY",
+      "tweet_volume": 546,
+      "weight": -5.164803504958218
+   },
+   {
+      "name": "#RIPBots",
+      "tweet_volume": 0,
+      "weight": -5.4620481977656485
+   },
+   {
+      "name": "#DOGECOIN\\u00a0FROM",
+      "tweet_volume": 0,
+      "weight": -5.491667394492974
+   },
+   {
+      "name": "#Facebook",
+      "tweet_volume": 1207,
+      "weight": -5.795948369261008
+   },
+   {
+      "name": "#Bitcoin\\u00a0is",
+      "tweet_volume": 0,
+      "weight": -5.968322848532649
+   },
+   {
+      "name": "#Dogecoin\\u2019s",
+      "tweet_volume": 0,
+      "weight": -6.016278558434203
+   },
+   {
+      "name": "#Crypto",
+      "tweet_volume": 41190,
+      "weight": -6.260344809044105
+   },
+   {
+      "name": "#Dogechain,",
+      "tweet_volume": 265,
+      "weight": -6.332028092047946
+   },
+   {
+      "name": "#TheCurrentThing",
+      "tweet_volume": 1,
+      "weight": -6.415700710841955
+   },
+   {
+      "name": "#Ethereum",
+      "tweet_volume": 5821,
+      "weight": -6.50909494322483
+   },
+   {
+      "name": "#NFT",
+      "tweet_volume": 81192,
+      "weight": -6.636999469328285
+   },
+   {
+      "name": "#Doge",
+      "tweet_volume": 2964,
+      "weight": -6.728691448570251
+   },
+   {
+      "name": "#DogeX",
+      "tweet_volume": 13,
+      "weight": -6.888068822814859
+   },
+   {
+      "name": "#LUNC",
+      "tweet_volume": 2671,
+      "weight": -6.888436263314081
+   },
+   {
+      "name": "#dogearmy",
+      "tweet_volume": 546,
+      "weight": -6.901389713203376
+   },
+   {
+      "name": "#Fiat!",
+      "tweet_volume": 85,
+      "weight": -7.023386683349038
+   },
+   {
+      "name": "#BNB",
+      "tweet_volume": 14216,
+      "weight": -7.077022895488825
+   },
+   {
+      "name": "#CryptoSummer",
+      "tweet_volume": 2,
+      "weight": -7.077022895488825
+   },
+   {
+      "name": "#Dogecoin.",
+      "tweet_volume": 2644,
+      "weight": -7.468368485521175
+   },
+   {
+      "name": "#Eth",
+      "tweet_volume": 109042,
+      "weight": -7.514132817993497
+   },
+   {
+      "name": "#Bitcoin\\u00a0",
+      "tweet_volume": 0,
+      "weight": -7.559852355955279
+   },
+   {
+      "name": "#Cryptopolis",
+      "tweet_volume": 0,
+      "weight": -7.574544238899322
+   },
+   {
+      "name": "#AcceptDOGE",
+      "tweet_volume": 16,
+      "weight": -7.576887035393656
+   },
+   {
+      "name": "#LUNCCommunity",
+      "tweet_volume": 374,
+      "weight": -7.581549311063266
+   },
+   {
+      "name": "#Doge\\u00a0",
+      "tweet_volume": 0,
+      "weight": -7.581549311063266
+   },
+   {
+      "name": "#ETH",
+      "tweet_volume": 109043,
+      "weight": -7.581549311063266
+   },
+   {
+      "name": "#MattWallaceDogecoin",
+      "tweet_volume": 0,
+      "weight": -7.581549311063266
+   },
+   {
+      "name": "#Travladd",
+      "tweet_volume": 0,
+      "weight": -7.581549311063266
+   },
+   {
+      "name": "#Art",
+      "tweet_volume": 11076,
+      "weight": -7.611217672825368
+   },
+   {
+      "name": "#DogeChain",
+      "tweet_volume": 265,
+      "weight": -7.761407512550599
+   },
+   {
+      "name": "#DogecoinToTheMoon",
+      "tweet_volume": 261,
+      "weight": -7.789655433449233
+   },
+   {
+      "name": "#DogecoinToTheMoon!!!",
+      "tweet_volume": 262,
+      "weight": -7.817976529584915
+   }
+]

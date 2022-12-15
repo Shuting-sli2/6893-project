@@ -1,0 +1,32 @@
+[
+   {
+      "name": "#CCXP2022",
+      "tweet_volume": 324,
+      "weight": -2.452245678053362
+   },
+   {
+      "name": "#NationalComingOutDay",
+      "tweet_volume": 2,
+      "weight": -6.823463596353866
+   },
+   {
+      "name": "#dreamfacereveal",
+      "tweet_volume": 11,
+      "weight": -7.072350187507382
+   },
+   {
+      "name": "#stanloona",
+      "tweet_volume": 1,
+      "weight": -7.072350187507382
+   },
+   {
+      "name": "#cyberpunk",
+      "tweet_volume": 348,
+      "weight": -7.078583733157948
+   },
+   {
+      "name": "#cyberpunkedgerunner",
+      "tweet_volume": 12,
+      "weight": -7.078583733157948
+   }
+]

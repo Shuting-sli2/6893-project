@@ -1,0 +1,332 @@
+[
+   {
+      "name": "#Atentos",
+      "tweet_volume": 189,
+      "weight": 3.443136344696252
+   },
+   {
+      "name": "#FIFAWorldCup.",
+      "tweet_volume": 49324,
+      "weight": 3.3644590653374413
+   },
+   {
+      "name": "#Qatar2022",
+      "tweet_volume": 25483,
+      "weight": 2.6051520819561165
+   },
+   {
+      "name": "#FIFAWorldCup",
+      "tweet_volume": 49327,
+      "weight": 2.6008317862690884
+   },
+   {
+      "name": "#BRA",
+      "tweet_volume": 3593,
+      "weight": 2.4299349310695524
+   },
+   {
+      "name": "#OJOALDATO",
+      "tweet_volume": 84,
+      "weight": 2.3755779754961837
+   },
+   {
+      "name": "#FueraDeLugar",
+      "tweet_volume": 98,
+      "weight": 2.0986967035014445
+   },
+   {
+      "name": "#SailorJupiter!",
+      "tweet_volume": 271,
+      "weight": 2.0906014501090304
+   },
+   {
+      "name": "#KOR",
+      "tweet_volume": 2218,
+      "weight": 1.7153002209633184
+   },
+   {
+      "name": "#WorldCup2022",
+      "tweet_volume": 5538,
+      "weight": 1.5518016906260372
+   },
+   {
+      "name": "#dohaqatar",
+      "tweet_volume": 21,
+      "weight": 1.5518016906260372
+   },
+   {
+      "name": "#elparchedelfutbol",
+      "tweet_volume": 15,
+      "weight": 1.5518016906260372
+   },
+   {
+      "name": "#JPN",
+      "tweet_volume": 2249,
+      "weight": 1.1698968328490005
+   },
+   {
+      "name": "#HRV",
+      "tweet_volume": 748,
+      "weight": 1.150243352753178
+   },
+   {
+      "name": "#ARG",
+      "tweet_volume": 553,
+      "weight": 0.5799124084508046
+   },
+   {
+      "name": "#AUS",
+      "tweet_volume": 49,
+      "weight": 0.5397230979830565
+   },
+   {
+      "name": "#Memes",
+      "tweet_volume": 1638,
+      "weight": 0.010248563759580357
+   },
+   {
+      "name": "#POL",
+      "tweet_volume": 90,
+      "weight": 0.003784048158277066
+   },
+   {
+      "name": "#FRA",
+      "tweet_volume": 346,
+      "weight": -0.014538865702775359
+   },
+   {
+      "name": "#RockAlParque",
+      "tweet_volume": 11,
+      "weight": -0.24578808897888313
+   },
+   {
+      "name": "#LasM\\u00e1sLe\\u00eddasEnET",
+      "tweet_volume": 0,
+      "weight": -0.46048742203017945
+   },
+   {
+      "name": "#MEMES",
+      "tweet_volume": 1638,
+      "weight": -0.5084279356780809
+   },
+   {
+      "name": "#URU",
+      "tweet_volume": 56,
+      "weight": -0.5924917126536374
+   },
+   {
+      "name": "#NuevaVi\\u00f1eta",
+      "tweet_volume": 0,
+      "weight": -0.6783944476730293
+   },
+   {
+      "name": "#DomingoEnElTiempo",
+      "tweet_volume": 1,
+      "weight": -0.6877158805216571
+   },
+   {
+      "name": "#GHA",
+      "tweet_volume": 17,
+      "weight": -0.752544713345285
+   },
+   {
+      "name": "#NED",
+      "tweet_volume": 142,
+      "weight": -1.1228482117018557
+   },
+   {
+      "name": "#USA",
+      "tweet_volume": 3923,
+      "weight": -1.189979275938546
+   },
+   {
+      "name": "#GER",
+      "tweet_volume": 159,
+      "weight": -1.282788443418576
+   },
+   {
+      "name": "#Argentina",
+      "tweet_volume": 1737,
+      "weight": -1.3323092359340851
+   },
+   {
+      "name": "#BlueBeetle",
+      "tweet_volume": 162,
+      "weight": -1.5382220379982487
+   },
+   {
+      "name": "#CRC",
+      "tweet_volume": 28,
+      "weight": -1.5719059634786732
+   },
+   {
+      "name": "#SUI",
+      "tweet_volume": 8256,
+      "weight": -1.6157733723094376
+   },
+   {
+      "name": "#SRB",
+      "tweet_volume": 29,
+      "weight": -1.675256121556987
+   },
+   {
+      "name": "#BEL",
+      "tweet_volume": 34,
+      "weight": -1.7694110339506819
+   },
+   {
+      "name": "#ESP",
+      "tweet_volume": 422,
+      "weight": -1.8053790868795787
+   },
+   {
+      "name": "#CMR",
+      "tweet_volume": 18,
+      "weight": -1.9225133639662149
+   },
+   {
+      "name": "#den",
+      "tweet_volume": 9,
+      "weight": -2.021060583077009
+   },
+   {
+      "name": "#YoLeCreoAPe\\u00f1alosa",
+      "tweet_volume": 0,
+      "weight": -2.0299419356099997
+   },
+   {
+      "name": "#MAR",
+      "tweet_volume": 344,
+      "weight": -2.2927379037760045
+   },
+   {
+      "name": "#POR",
+      "tweet_volume": 321,
+      "weight": -2.3048033225872926
+   },
+   {
+      "name": "#Obras.",
+      "tweet_volume": 21,
+      "weight": -2.3278281450243896
+   },
+   {
+      "name": "#CAN",
+      "tweet_volume": 77,
+      "weight": -2.3940741233398657
+   },
+   {
+      "name": "#Japon",
+      "tweet_volume": 945,
+      "weight": -2.468075245991879
+   },
+   {
+      "name": "#OjoAlDato",
+      "tweet_volume": 84,
+      "weight": -2.468628001646237
+   },
+   {
+      "name": "#ECU",
+      "tweet_volume": 37,
+      "weight": -2.5136372739874018
+   },
+   {
+      "name": "#CRO",
+      "tweet_volume": 1958,
+      "weight": -2.5363444575315954
+   },
+   {
+      "name": "#ElMen\\u00fa,",
+      "tweet_volume": 0,
+      "weight": -2.537936963502853
+   },
+   {
+      "name": "#Mundial2022",
+      "tweet_volume": 485,
+      "weight": -2.5718495731803785
+   },
+   {
+      "name": "#Batman",
+      "tweet_volume": 655,
+      "weight": -2.623985956648138
+   },
+   {
+      "name": "#RickandMortySeason6",
+      "tweet_volume": 0,
+      "weight": -2.6244263736796607
+   },
+   {
+      "name": "#KSA",
+      "tweet_volume": 85,
+      "weight": -2.6577578249148455
+   },
+   {
+      "name": "#MundialQatar2022",
+      "tweet_volume": 522,
+      "weight": -2.692878247954157
+   },
+   {
+      "name": "#WorldcupQatar2022",
+      "tweet_volume": 1302,
+      "weight": -2.8629540697910456
+   },
+   {
+      "name": "#SML",
+      "tweet_volume": 4,
+      "weight": -2.965937451575669
+   },
+   {
+      "name": "#ImpopularPeroEficiente",
+      "tweet_volume": 0,
+      "weight": -3.0972768673146183
+   },
+   {
+      "name": "#SEN",
+      "tweet_volume": 81,
+      "weight": -3.1433574274086613
+   },
+   {
+      "name": "#Polonia",
+      "tweet_volume": 31,
+      "weight": -3.154230248313843
+   },
+   {
+      "name": "#DEN",
+      "tweet_volume": 9,
+      "weight": -3.1661885249913055
+   },
+   {
+      "name": "#MEX",
+      "tweet_volume": 135,
+      "weight": -3.2612657959156692
+   },
+   {
+      "name": "#SuperMarioMovie",
+      "tweet_volume": 904,
+      "weight": -3.343265242552277
+   },
+   {
+      "name": "#unsubcribe",
+      "tweet_volume": 410,
+      "weight": -3.343265242552277
+   },
+   {
+      "name": "#IRN",
+      "tweet_volume": 6,
+      "weight": -3.394520500715949
+   },
+   {
+      "name": "#QAT",
+      "tweet_volume": 17,
+      "weight": -3.3948410437545156
+   },
+   {
+      "name": "#\\u30c9\\u30e9\\u30b4\\u30f3\\u30dc\\u30fc\\u30eb",
+      "tweet_volume": 0,
+      "weight": -3.443498131758857
+   },
+   {
+      "name": "#DragonBall",
+      "tweet_volume": 1078,
+      "weight": -3.5234502935866363
+   }
+]

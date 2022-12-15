@@ -5,6 +5,7 @@ const satInput = document.querySelector('#sat');
 const lumInput = document.querySelector('#lum');
 const limitSelect = document.querySelector('#limit');
 const shuffleSelect = document.querySelector('#shuffle');
+const personalization = document.querySelector('#beta');
 const options = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25];
 options.forEach((val, i) => limitSelect.options[i] = new Option(val));
 limitSelect.selectedIndex = defaultLimit - 1;
@@ -13,29 +14,81 @@ bgSelect.selectedIndex = 0;
 limitSelect.addEventListener('change', render);
 bgSelect.addEventListener('change', render);
 shuffleSelect.addEventListener('change', render);
+personalization.addEventListener('change',render);
 
 render();
 
 function render(){
-fetch('trend.json')
-    .then((response) => response.json())
-    .then((data) => {
-      console.log(data)
-      let idx = 0;
-      const limit = limitSelect.selectedIndex + 1;
-      const bgColor = bgSelect.options[bgSelect.selectedIndex].value;
-      const doShuffle = shuffleSelect.selectedIndex === 1;
-      document.querySelector('#chart').innerHTML = '';
+  let idx = 0;
+  const limit = limitSelect.selectedIndex + 1;
+  const bgColor = bgSelect.options[bgSelect.selectedIndex].value;
+  const doShuffle = shuffleSelect.selectedIndex === 2;
+  const accord2Volume = shuffleSelect.selectedIndex === 1;
+  const beta = personalization.value;
+  document.querySelector('#chart').innerHTML = '';
 
-      var json = {'children':[]}
-      json.children = data.slice(0,limit)
+  var trend = [],
+      user = [];
+
+  fetch('trend.json')
+  .then(res => res.json())
+  .then(data => {
+    const data_modified = data.map(element => {
+      element.weight = (1-beta) * Math.log(element.value/23780)
+      return element
+    })
+    trend = data_modified
+  })
+  .then(res=>{
+    fetch('tweets_MattWallace888.json')
+    .then(res => res.json())
+    .then(data => {
+      const data_modified = data.map(element => {
+        element.weight = (1-beta) * Math.log(element.tweet_volume/23780) + beta * (element.weight+5)
+        return element
+      })
+      user = data_modified
+    })
+    .then(res=>{
+      user.map(element =>{
+        element['value'] = element['tweet_volume']
+        delete element['tweet_volume']
+      })
+      let final_data = trend.concat(user)
+      final_data.sort((a,b) => {
+        if(a.weight>b.weight) return -1;
+        if(a.weight<b.weight) return 1;
+        return 0;
+      })
+
+      final_data.map(element =>{
+        const diameter = element.value>50000?element.value:50000
+        element.diameter = diameter
+        return element
+      })
+
+      console.log(final_data)
+
+      if (accord2Volume){
+        final_data.sort((a,b) => {
+          if(a.value>b.value) return -1;
+          if(a.value<b.value) return 1;
+          return 0;
+        })
+      }
 
       if (doShuffle) {
-        json.children = _.shuffle(json.children);  
+        final_data = _.shuffle(final_data);  
       }
-      const values = json.children.map(d => d.value);
-      const min = Math.min.apply(null, values);
-      const max = Math.max.apply(null, values);
+      
+
+      var json = {'children':[]}
+      json.children = final_data.slice(0,limit)
+
+      
+      const diameters = json.children.map(d => d.diameter);
+      const min = Math.min.apply(null, diameters);
+      const max = Math.max.apply(null, diameters);
       const total = json.children.length;
       
       document.body.style.backgroundColor = bgColor;  
@@ -52,7 +105,7 @@ fetch('trend.json')
         .offset([-38, 0])
         .html((d, i) => {
           const item = json.children[i];
-          const color = getColor(i, values.length);
+          const color = getColor(i, diameters.length);
           return `<div class="d3-tip" style="background-color: ${color}">${item.name} (${item.value})</div><div class="d3-stem" style="border-color: ${color} transparent transparent transparent"></div>`;
         })
       ;
@@ -71,7 +124,7 @@ fetch('trend.json')
         .attr('class', 'chart-svg');
       
       var root = d3.hierarchy(json)
-        .sum(function(d) { return d.value; });
+        .sum(function(d) { return d.diameter; });
         // .sort(function(a, b) { return b.value - a.value; });
       
       bubble(root);
@@ -122,7 +175,8 @@ fetch('trend.json')
         return getColor(idx++, json.children.length);
       }
       function getColor(idx, total) {
-        const colorList = ['F05A24','EF4E4A','EE3F65','EC297B','E3236C','D91C5C','BC1E60','9E1F63','992271','952480','90278E','7A2A8F','652D90','502980','3B2671','262261','27286D','292D78','2A3384','2B388F','2A4F9F','2965AF','277CC0','2692D0','25A9E0'];
+        //const colorList = ['F05A24','EF4E4A','EE3F65','EC297B','E3236C','D91C5C','BC1E60','9E1F63','992271','952480','90278E','7A2A8F','652D90','502980','3B2671','262261','27286D','292D78','2A3384','2B388F','2A4F9F','2965AF','277CC0','2692D0','25A9E0'];
+        const colorList = ['FF0000','EE082E','E40D52','D91074','CD1392','B816A2','9A18AF','7E1AA6','5B1EA0','44219A','342390','262589','28277E','272C7E','262B78','26326F','263066','263866','263760','263F60','243A57','243F57','243C51','244351','26454A']
         const colorLookup = [
           [0,4,10,18,24],
           [0,3,6,9,11,13,15,18,20,24],
@@ -138,13 +192,13 @@ fetch('trend.json')
       }
 
       function getLabel(item) {
-        if (item.data.value < max / 100) {
+        if (item.data.diameter < max / 100) {
           return '';
         }
         return truncate(item.data.name);
       }
       function getValueText(item) {
-        if (item.data.value < max / 100) {
+        if (item.data.diameter < max / 100) {
           return '';
         }
         return item.data.value;
@@ -157,16 +211,17 @@ fetch('trend.json')
         return label;
       }
       function getFontSizeForItem(item) {
-        return getFontSize(item.data.value, min, max, total);
+        return getFontSize(item.data.diameter, min, max, total);
       }
-      function getFontSize(value, min, max, total) {
+      function getFontSize(diameter, min, max, total) {
         const minPx = 6;
         const maxPx = 25;
         const pxRange = maxPx - minPx;
         const dataRange = max - min;
         const ratio = pxRange / dataRange;
-        const size = Math.min(maxPx, Math.round(value * ratio) + minPx);
+        const size = Math.min(maxPx, Math.round(diameter * ratio) + minPx);
         return `${size}px`;
       }
-    });
+    })
+  });
 }
