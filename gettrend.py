@@ -5,10 +5,13 @@ import requests
 import base64
 import csv
 import json
+import time
+# Import the Google Cloud client library and JSON library
+from google.cloud import storage
 
 #Define your keys from the developer portal
-consumer_key = '47woRli9HY5DaaQOJyV3xC3Dn'
-consumer_secret = 'Ol4k0MbQM7zyL4suBn09y7SRYFAMjSom7nb11PNEew3uQhmEMZ'
+consumer_key = 'YwjSpr3oPZjPg2mDxghAJ4ing'
+consumer_secret = 'SN0Jb3iwE93eN0BoJSRWkWptPXI628ECA5ce1Yapeg81SoY6Up'
 
 #Reformat the keys and encode them
 key_secret = '{}:{}'.format(consumer_key, consumer_secret).encode('ascii')
@@ -43,49 +46,45 @@ trend_params = {
 }
 
 trend_url = 'https://api.twitter.com/1.1/trends/place.json'
-trend_resp = requests.get(trend_url, headers=trend_headers, params = trend_params)
-# get response in JSON
-tweet_data = trend_resp.json()
-#print(tweet_data[0]['trends'])
-# The response contains the trending topics tweets and its various parameters in JSON format.
 
-# print the top trending tweets
-# name: name of the trending topics, sometimes include hashtag
+while True:
+    trend_resp = requests.get(trend_url, headers=trend_headers, params = trend_params)
+    # get response in JSON
+    tweet_data = trend_resp.json()
+    #print(tweet_data[0]['trends'])
+    # The response contains the trending topics tweets and its various parameters in JSON format.
 
-# top 50
-output_data = {"trending_tweets":[]}
+    # print the top trending tweets
+    # name: name of the trending topics, sometimes include hashtag
 
-def add_tweet(tweet):
-    output_data["trending_tweets"].append(tweet)
+    # top 50
+    output_data = {"trending_tweets":[]}
 
-for i in range(0,50):
-    tweet = {}
-    tweet["name"] = tweet_data[0]['trends'][i]['name']
-    tweet["tweet_volume"] = tweet_data[0]['trends'][i]['tweet_volume']
-    add_tweet(tweet)
-  #to_csv.append(tweet_data[0]['trends'][i])
-  #print(tweet_data[0]['trends'][i])
-  #save tweet content to a csv
-  #twtname = tweet_data[0]['trends'][i]['name']
+    def add_tweet(tweet):
+        output_data["trending_tweets"].append(tweet)
 
-json_output = json.dumps(output_data["trending_tweets"], indent=2)
+    for i in range(0,50):
+        tweet = {}
+        tweet["name"] = tweet_data[0]['trends'][i]['name']
+        tweet["tweet_volume"] = tweet_data[0]['trends'][i]['tweet_volume']
+        add_tweet(tweet)
+      #to_csv.append(tweet_data[0]['trends'][i])
+      #print(tweet_data[0]['trends'][i])
+      #save tweet content to a csv
+      #twtname = tweet_data[0]['trends'][i]['name']
 
-print(json_output)
-with open("/Users/shutingli/Desktop/6893_project/trend.json", "w") as outfile:
-    outfile.write(json_output)
-
-# while streaming, calling the getTrend api at every second
-# continue for ex. 60 seconds
-# store analysis in a dataset
-'''
-keys = to_csv[0].keys()
-with open('/Users/shutingli/Desktop/trend.csv', 'w', newline='') as output_file:
-    dict_writer = csv.DictWriter(output_file, keys)
-    dict_writer.writeheader()
-    dict_writer.writerows(to_csv)
-'''
-#NMA2022
-#YalıÇapkını
-#NRJMusicAwards
-#RLWC2021
-#PromiBB
+    json_output = json.dumps(output_data["trending_tweets"], indent=2)
+    print(json_output)
+    storage_client = storage.Client()
+    bucket = storage_client.get_bucket('twitter1000')
+    blob = bucket.get_blob("trend.json")
+    blob.upload_from_string(json_output)
+    print("pause for 60 second")
+    
+    #read json from gcp
+    '''
+    data = json.loads(blob.download_as_string())
+    print data
+    '''
+    
+    time.sleep(60)
