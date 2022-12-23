@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - D3 Packed Bubble Chart</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<fieldset>
+  <legend>Graph Options</legend>
+  <h3 class=first-h3>Number of Bubbles to show</h3>
+  <div><select id=limit></select></div>
+  <h3>Order</h3>  
+  <select id=shuffle>
+    <option value="0">Personalized</option>
+    <option value="1">According to Tweet Volume</option>
+    <option value="2">Random</option>
+  </select>
+  <h3>Background Color</h3>  
+  <select id=bg>
+    <option value="#e0e0e0">Gray</option>
+    <option value="#eeeeee">Gray 2</option>
+    <option value="#111111">Dark</option>
+  </select>
+  <h3>Personalization</h3>  
+  <select id=beta>
+    <option value=0>None</option>
+    <option value=0.2>Very Weak</option>
+    <option value=0.4>Weak</option>
+    <option value=0.6>Strong</option>
+    <option value=0.8 selected>Very Strong</option>
+  </select>
+</fieldset>
+  
+<div id="chart" class="chart"></div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.8/d3.min.js'></script>
+<script src='https://d3js.org/d3-hierarchy.v1.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.19.0/d3-legend.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
